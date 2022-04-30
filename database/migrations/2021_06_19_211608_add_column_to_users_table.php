@@ -21,6 +21,7 @@ class AddColumnToUsersTable extends Migration
             $table->string('phone_number')->nullable();
             $table->string('image')->nullable();
         });
+        
     }
 
     /**
