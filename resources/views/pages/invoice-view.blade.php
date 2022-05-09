@@ -203,7 +203,7 @@
                                 </select>
                             </td>
                             <td>
-                                <input type="text" value="0.00" class="w-100">
+                                <div><input type="text" value="0.00" class="w-100"></div>
                             </td>
                             <td>
                                 <input type="text" value="0.00" class="w-100">
